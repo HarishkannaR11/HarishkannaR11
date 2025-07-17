@@ -6,17 +6,17 @@
 </p>
 
 ---
--👨‍🎓 Education
--B.E. Computer Science and Engineering
--Sri Sivasubramaniya Nadar College of Engineering
--2023 – 2027
+- 👨‍🎓 Education
+- B.E. Computer Science and Engineering
+- Sri Sivasubramaniya Nadar College of Engineering
+- 2023 – 2027
 
 - 🎓 3rd Year Computer Science & Engineering student  
 - 🔭 Recent Projects:
   - [🔥 Fire-Fighting Robot](https://github.com/HarishkannaR11/FIRE-FIGHTING-ROBOT-USING-ARDUINO)
   - [🌦 IoT Weather Station](https://github.com/HarishkannaR11/IOT-WEATHER-STATION-WITH-ARDUINO-)
 - 💬 Ask me about **Arduino, Sensors, or Cloud Basics**  
-- 📫 Reach me at: `harishkanna113@gmail.com`
+- 📫 Reach me at: `krisharishcse11@gmail.com`
 
 ---
 

@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=HarishkannaR11&label=Profile%20views&color=0e75b6&style=flat" alt="HarishkannaR11" />
 </p>
 ---
+
 ## 💡 Professional Summary
 
 Enthusiastic and driven **Computer Science student** with a strong foundation in programming, web technologies, and security. Passionate about **front-end development**, and solving **Data Structures & Algorithms** challenges.  

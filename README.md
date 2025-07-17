@@ -6,10 +6,10 @@
 </p>
 
 ---
-👨‍🎓 Education
-B.E. Computer Science and Engineering
-Sri Sivasubramaniya Nadar College of Engineering
-2023 – 2027
+-👨‍🎓 Education
+-B.E. Computer Science and Engineering
+-Sri Sivasubramaniya Nadar College of Engineering
+-2023 – 2027
 
 - 🎓 3rd Year Computer Science & Engineering student  
 - 🔭 Recent Projects:

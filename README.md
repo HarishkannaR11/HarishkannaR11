@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Harishkanna R</h1>
-<h3 align="center">Passionate CSE Student | IoT Enthusiast | Cloud Learner</h3>
+<h3 align="center">Fronted Developer|Problem Solver|Machine Learning Enthusiast | IoT Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarishkannaR11&label=Profile%20views&color=0e75b6&style=flat" alt="HarishkannaR11" />
 </p>
 
 ---
+👨‍🎓 Education
+B.E. Computer Science and Engineering
+Sri Sivasubramaniya Nadar College of Engineering
+2023 – 2027
 
 - 🎓 3rd Year Computer Science & Engineering student  
-- 🔬 Working on **IoT + Embedded Systems**  
-- ☁️ Exploring **Cloud Technologies and DevOps**  
 - 🔭 Recent Projects:
   - [🔥 Fire-Fighting Robot](https://github.com/HarishkannaR11/FIRE-FIGHTING-ROBOT-USING-ARDUINO)
   - [🌦 IoT Weather Station](https://github.com/HarishkannaR11/IOT-WEATHER-STATION-WITH-ARDUINO-)

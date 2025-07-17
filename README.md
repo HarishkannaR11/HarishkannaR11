@@ -4,6 +4,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarishkannaR11&label=Profile%20views&color=0e75b6&style=flat" alt="HarishkannaR11" />
 </p>
+---
+## 💡 Professional Summary
+
+Enthusiastic and driven **Computer Science student** with a strong foundation in programming, web technologies, and security. Passionate about **front-end development**, and solving **Data Structures & Algorithms** challenges.  
+Actively seeking **internship opportunities** to apply and expand my skills through real-world, impactful projects.
 
 ---
 - 👨‍🎓 Education
@@ -11,15 +16,18 @@
 - Sri Sivasubramaniya Nadar College of Engineering
 - 2023 – 2027
 
-- 🎓 3rd Year Computer Science & Engineering student  
-- 🔭 Recent Projects:
-  - [🔥 Fire-Fighting Robot](https://github.com/HarishkannaR11/FIRE-FIGHTING-ROBOT-USING-ARDUINO)
-  - [🌦 IoT Weather Station](https://github.com/HarishkannaR11/IOT-WEATHER-STATION-WITH-ARDUINO-)
+---
+ ## 🔭 Projects.
+### [🔥 Fire-Fighting Robot](https://github.com/HarishkannaR11/FIRE-FIGHTING-ROBOT-USING-ARDUINO)
+### [🌦 IoT Weather Station](https://github.com/HarishkannaR11/IOT-WEATHER-STATION-WITH-ARDUINO-)
 - 💬 Ask me about **Arduino, Sensors, or Cloud Basics**  
 - 📫 Reach me at: `krisharishcse11@gmail.com`
 
 ---
-
+## 📜 Certifications
+✅ **Linux Foundation Certification** – Credly
+✅ **Data Structures using C/C++** – Udemy  
+---
 ### 🛠️ Languages and Tools:
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>

@@ -9,7 +9,7 @@
 
 <br/>
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Harishkanna Typer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Harishkanna!;Full+Stack+%7C+Cloud+%7C+IoT+Enthusiast" alt="Typing SVG">
 </div>
 <br/>
 

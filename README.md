@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Harishkanna!;Full+Stack+%7C+Cloud+%7C+IoT+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Harishkanna!;FullStack+%7C+%7C+IoT+Enthusiast" alt="Typing SVG">
 </div>
 
 
 🎓 Pre-final Year CSE @ SSNCE  
-🔭 Focus: Cloud | IoT | Full Stack  
+🔭 Focus: Full Stack |  IoT   
 🚀 Actively Seeking: Fall 2025 Internships  
 🌐 Portfolio of Work: Hardware + Scalable Software  
 

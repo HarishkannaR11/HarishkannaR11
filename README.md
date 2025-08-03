@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="150" height="150" alt="Octo Mascot">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Harishkanna!;Full+Stack+%7C+Cloud+%7C+IoT+Enthusiast" alt="Typing SVG">
 </div>
 
-# 👋 Hey there! I'm Harishkanna
 
 🎓 Pre-final Year CSE @ SSNCE  
 🔭 Focus: Cloud | IoT | Full Stack  

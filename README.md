@@ -2,7 +2,7 @@
   <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="150" height="150" alt="Octo Mascot">
 </div>
 
-# 👋 Hey there! I'm Krisharish
+# 👋 Hey there! I'm Harishkanna
 
 🎓 Pre-final Year CSE @ SSNCE  
 🔭 Focus: Cloud | IoT | Full Stack  

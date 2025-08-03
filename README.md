@@ -1,78 +1,71 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Harishkanna!;Cloud+%7C+IoT+%7C+Full+Stack+Developer;Learning+Relentlessly%2C+Building+Boldly" alt="Typing SVG">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
----
+# Welcome To My GitHub Profile !
 
-### 👨‍💻 About Me
+<br/>
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar Typer" />
+</div>
+<br/>
 
-🎓 CSE student at SSN College of Engineering (Batch 2022–2026)  
-🛠️ Passionate about **Cloud Computing | IoT | Full Stack Development**  
-⚙️ Working on:  
-&nbsp;&nbsp;&nbsp;&nbsp;• `ESP8266`, `Arduino`  
-&nbsp;&nbsp;&nbsp;&nbsp;• `React`, `Node.js`, `MongoDB`  
-&nbsp;&nbsp;&nbsp;&nbsp;• `Tailwind CSS`, `Bootstrap`  
-☁️ Exploring `AWS`, `CI/CD`, and scalable IoT-cloud integrations  
-🎯 Open to **Fall 2025 Internship** roles
-
----
-
-### 🧰 Tech Stack
+<!--
+- ⌨️ Programming Languages I've used:
 
 <div align="center">
-
-<!-- Frontend -->
-<img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" width="40" style="border-radius: 10px; margin: 6px"/>
-<img src="https://img.icons8.com/color/48/css3.png" title="CSS3" width="40" style="border-radius: 10px; margin: 6px"/>
-<img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" width="40" style="border-radius: 10px; margin: 6px"/>
-<img src="https://img.icons8.com/ultraviolet/40/react--v1.png" title="ReactJS" width="40" style="border-radius: 10px; margin: 6px"/>
-<img src="https://img.icons8.com/ios-filled/50/tailwind-css.png" title="Tailwind CSS" width="40" style="border-radius: 10px; margin: 6px"/>
-<img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap" width="40" style="border-radius: 10px; margin: 6px"/>
-
-<!-- Backend -->
-<img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" width="40" style="border-radius: 10px; margin: 6px"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-express-js-a-minimal-and-flexible-node-js-web-application-framework-logo-shadow-tal-revivo.png" title="Express.js" width="40" style="border-radius: 10px; margin: 6px"/>
-<img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB" width="40" style="border-radius: 10px; margin: 6px"/>
-
-<!-- IoT -->
-<img src="https://img.icons8.com/color/48/arduino.png" title="Arduino" width="40" style="border-radius: 10px; margin: 6px"/>
-<img src="https://img.icons8.com/external-others-inmotus-design/67/external-ESP8266-circuit-board-others-inmotus-design.png" title="ESP8266" width="40" style="border-radius: 10px; margin: 6px"/>
-<img src="https://seeklogo.com/images/B/blynk-logo-B2530B94E7-seeklogo.com.png" title="Blynk" width="40" style="border-radius: 10px; margin: 6px"/>
-
-
+ <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/php.svg' width='40'/>
+ <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/git.svg' width='30'/>
 </div>
+<-->
 
----
+<br/>
 
-### 🔗 Connect With Me
+- 🙌 I'm currently open to: **Software Development Engineer in Test (SDET, Automation, CI/CD) roles**
+
+<br/><br/>
 
 <div align="center">
-  <a href="https://github.com/HarishkannaR11">
-    <img src="https://img.shields.io/badge/GitHub-HarishkannaR11-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/harishkanna" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Harishkanna-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
+<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
 </div>
+<br/>
 
----
+- 🔭 I’m currently working on: **Java | Python | Selenium | TestNG | Maven | Rest Assured | TeamCity**
 
-### 📈 GitHub Stats
+- 🌱 I’m currently learning: **Automation | SQL | Java | Python | AWS**
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarishkannaR11&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarishkannaR11&theme=tokyonight" width="400"/>
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 
----
+- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 
-### ⚡ Fun Facts
+- 💬 Ask me about: **Science & Technology | Technical Content Writing | Music | Reading | History**
 
-- 🧠 Tech is my playground — I prototype, test, and deploy
-- 🎧 Music is my focus fuel
-- 🍳 Also enjoy cooking up quick meals while debugging
+- 🤓 Active User at: **GitHub | LinkedIn**
 
-> “The best way to learn is by building and breaking things.”  
-> — *Every developer, ever*
+- 📫 How to reach me:
 
----
+    * [**Drop a Mail**](mailto:raghavkhullar16@gmail.com)
+
+    * [**Connect via LinkedIn**](https://www.linkedin.com/in/raghav-khullar/)
+
+    * [**Visit my Website**](https://raghavk16.github.io/)
+    
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+</div>
+
+- 😄 Pronouns: **He/Him**
+
+- ⚡ Fun Facts: 
+
+    * *Besides programming, I've been a [**Technical Content Writer**](https://www.mindbrews.in/author/raghav-khullar/). I'm a **Melophile** for life and love to cook for my friends and family when I'm free.*
+
+    * *You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.*
+    
+    * *If you're still reading, why not follow me ?? Let's Connect !!*
+
+
+harishkanna and know arudino and esp and react css html js and nodejs and tailwind and bootstrap 

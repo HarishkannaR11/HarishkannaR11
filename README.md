@@ -1,12 +1,15 @@
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" 
+       alt="GitHub Octocat" 
+       width="150" />
 </div>
+
 
 # Welcome To My GitHub Profile !
 
 <br/>
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar Typer" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Harishkanna Typer" />
 </div>
 <br/>
 

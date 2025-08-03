@@ -10,10 +10,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Typing Animation">
-</div>
-
 ## 💼 Tech Stack
 
 ### 🖥️ Frontend

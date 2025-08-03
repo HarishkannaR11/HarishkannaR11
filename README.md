@@ -7,7 +7,7 @@
 
 
 # Welcome To My GitHub Profile !
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Harishkanna!;CSE+@+SSNCE+%7C+2022–26;Cloud+%7C+IoT+%7C+Full+Stack+Developer;Actively+Learning+AWS,+React,+ESP8266" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Harishkanna!;CSE+@+SSNCE+%7C+2023–27;IoT+%7C+Full+Stack+Developer" />
 
 
 <!--

@@ -1,57 +1,68 @@
-<h1 align="center">Hi 👋, I'm Harishkanna R</h1>
-<h3 align="center">Fronted Developer|Problem Solver|Machine Learning Enthusiast | IoT Enthusiast </h3>
+<div align="center">
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="150" height="150" alt="Octo Mascot">
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarishkannaR11&label=Profile%20views&color=0e75b6&style=flat" alt="HarishkannaR11" />
-</p>
----
+# 👋 Hey there! I'm Krisharish
 
-## 💡 Professional Summary
-
-Enthusiastic and driven **Computer Science student** with a strong foundation in programming, web technologies, and security. Passionate about **front-end development**, and solving **Data Structures & Algorithms** challenges.  
-Actively seeking **internship opportunities** to apply and expand my skills through real-world, impactful projects.
-
----
-- 👨‍🎓 Education
-- B.E. Computer Science and Engineering
-- Sri Sivasubramaniya Nadar College of Engineering
-- 2023 – 2027
-
----
- ## 🔭 Projects.
-### [🔥 Fire-Fighting Robot](https://github.com/HarishkannaR11/FIRE-FIGHTING-ROBOT-USING-ARDUINO)
-### [🌦 IoT Weather Station](https://github.com/HarishkannaR11/IOT-WEATHER-STATION-WITH-ARDUINO-)
-- 💬 Ask me about **Arduino, Sensors, or Cloud Basics**  
-- 📫 Reach me at: `krisharishcse11@gmail.com`
-
----
-## 📜 Certifications
-✅ **Linux Foundation Certification** – Credly
-✅ **Data Structures using C/C++** – Udemy  
----
-### 🛠️ Languages and Tools:
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+🎓 Pre-final Year CSE @ SSNCE  
+🔭 Focus: Cloud | IoT | Full Stack  
+🚀 Actively Seeking: Fall 2025 Internships  
+🌐 Portfolio of Work: Hardware + Scalable Software  
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarishkannaR11&show_icons=true&theme=react" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarishkannaR11&theme=react" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Typing Animation">
+</div>
+
+## 💼 Tech Stack
+
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### 🌐 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### 📡 IoT Platforms
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-FF8300?style=flat&logo=esphome&logoColor=white)
+![Blynk](https://img.shields.io/badge/Blynk-18BFFF?style=flat&logo=blynk&logoColor=white)
+
+### ☁️ Cloud & DevOps (Learning)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
-### 🌐 Connect With Me:
-<p>
-  <a href="mailto:harishkanna113@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/HarishkannaR11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+## 📈 Current Projects
+
+- 🔌 Building smart IoT systems with real-time cloud dashboards  
+- 🌐 Developing responsive apps with React, Tailwind, Node.js  
+- ☁️ Exploring cloud automation using AWS and CI/CD pipelines  
+
+---
+
+## 🤝 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raghav-khullar/)  
+📫 **Reach out:** krisharish@example.com *(replace with your actual email)*  
+🌍 **Website (Coming Soon)**  
+
+---
+
+<div align="center">
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Eat Sleep Code" width="200"/>
+</div>
+
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> — *Cory House*
 
 ---

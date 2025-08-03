@@ -1,4 +1,9 @@
 
+<br/>
+<div align="center">
+  <img src="https://github.com/YourUsername/YourRepo/blob/main/assets/harishkanna.gif?raw=true" alt="Harishkanna Typer" />
+</div>
+<br/>
 
 
 # Welcome To My GitHub Profile !

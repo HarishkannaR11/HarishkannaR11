@@ -1,15 +1,11 @@
-<div align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" 
-       alt="GitHub Octocat" 
-       width="150" />
-</div>
+v>
 
 
 # Welcome To My GitHub Profile !
 
 <br/>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Harishkanna!;Full+Stack+%7C+Cloud+%7C+IoT+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Harishkanna!;FullStack+%7C+Cloud+%7C+IoT+Enthusiast" alt="Typing SVG">
 </div>
 <br/>
 

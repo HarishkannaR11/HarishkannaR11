@@ -21,24 +21,24 @@
 
 <div align="center">
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+<!-- Frontend -->
+<img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" width="40" style="border-radius: 10px; margin: 6px"/>
+<img src="https://img.icons8.com/color/48/css3.png" title="CSS3" width="40" style="border-radius: 10px; margin: 6px"/>
+<img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" width="40" style="border-radius: 10px; margin: 6px"/>
+<img src="https://img.icons8.com/ultraviolet/40/react--v1.png" title="ReactJS" width="40" style="border-radius: 10px; margin: 6px"/>
+<img src="https://img.icons8.com/ios-filled/50/tailwind-css.png" title="Tailwind CSS" width="40" style="border-radius: 10px; margin: 6px"/>
+<img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap" width="40" style="border-radius: 10px; margin: 6px"/>
+
+<!-- Backend -->
+<img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" width="40" style="border-radius: 10px; margin: 6px"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-express-js-a-minimal-and-flexible-node-js-web-application-framework-logo-shadow-tal-revivo.png" title="Express.js" width="40" style="border-radius: 10px; margin: 6px"/>
+<img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB" width="40" style="border-radius: 10px; margin: 6px"/>
 
 <!-- IoT -->
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP8266-FF8300?style=flat-square&logo=esphome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blynk-18BFFF?style=flat-square&logo=blynk&logoColor=white"/>
+<img src="https://img.icons8.com/color/48/arduino.png" title="Arduino" width="40" style="border-radius: 10px; margin: 6px"/>
+<img src="https://img.icons8.com/external-others-inmotus-design/67/external-ESP8266-circuit-board-others-inmotus-design.png" title="ESP8266" width="40" style="border-radius: 10px; margin: 6px"/>
+<img src="https://seeklogo.com/images/B/blynk-logo-B2530B94E7-seeklogo.com.png" title="Blynk" width="40" style="border-radius: 10px; margin: 6px"/>
 
-<!-- Cloud -->
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
 
 </div>
 

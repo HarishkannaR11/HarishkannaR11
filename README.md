@@ -4,64 +4,24 @@
 </div>
 <br/>
 
-# 👋 Welcome to My GitHub Profile  
+# 🌟 Harishkanna K  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Harishkanna!;CSE+Student+@+SSNCE+%7C+2023–27;IoT+Developer+%7C+Full+Stack+Enthusiast" />
-
----
-
-## 🚀 About Me
-- 🎓 Pursuing **Computer Science & Engineering (2023–27)** at **SSNCE**  
-- 🔭 Currently exploring: **IoT with Arduino & ESP8266/ESP32**, Cloud, and Full-Stack Development  
-- 🌱 Learning & building with: **React, Node.js, Tailwind, Bootstrap, Selenium, AWS**  
-- 👯 Open to collaborate on: **IoT, Web Apps, Automation, and Open Source Projects**  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="400" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=CSE+Student+%40+SSNCE+2023–27;IoT+Explorer+%7C+Full-Stack+Developer;Cloud+%7C+Automation+%7C+Open+Source" />
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I'm Up To  
 
-<div align="center">
-
-### 💻 Languages & Core  
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,php,sql" />
-
-### ⚡ Web & Frameworks  
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,django,flask" />
-
-### 🔌 IoT & Hardware  
-<img src="https://skillicons.dev/icons?i=arduino" />  
-*(ESP8266 / ESP32, Sensors, Cloud Integration)*
-
-### 🔧 Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,github,linux,aws,maven" />
-
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Tech Stack Animation" width="350" />
-</div>
-
----
-
-## 📫 Connect With Me  
-- 📧 [Mail Me](mailto:yourmail@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🌐 [Portfolio](https://yourportfolio.com)  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Connected Gif" width="300" />
-</div>
-
----
-
-## ⚡ Fun Fact  
-> I enjoy blending **hardware and software**—turning simple circuits into smart systems.  
-Also: debugging feels like detective work, just without the trench coat. 🕵️‍♂️  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Fun Coding" width="350" />
-</div>
+```python
+class HarishkannaVision:
+    def __init__(self):
+        self.currently_diving_in = "IoT with Arduino & ESP (where wires and code somehow become 'smart')"
+        self.exploring = "Full-Stack + Cloud (React, Node.js, AWS — basically breaking things end-to-end)"
+        self.building_projects = ["Weather Station IoT", "Automation Scripts", "React Apps"]
+        self.sharpening_skills = {
+            "SQL: still chasing that perfect query",
+            "Java: caffeine-powered debugging",
+            "Python: where indentation = survival",
+            "JS: promises… that sometimes lie"
+        }
+        self.future_goal = "Cloud + IoT Engineer (connecting everything to everything ☁️🔗)"

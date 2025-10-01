@@ -97,25 +97,25 @@
 ---
 
 
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="mailto:krisharish11@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="email" height="40" width="50" />
-</a>
-<a href="https://www.naukri.com/mnjuser/profile?id=your_profile_id" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/naukri.svg" alt="Harishkanna R on Naukri" height="40" width="50" />
-</a>
+  <a href="mailto:krisharish11@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="email" height="40" width="50" />
+  </a>
 
+  <a href="https://www.naukri.com/mnjuser/profile?id=your_profile_id" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/naukri.svg" alt="Harishkanna R on Naukri" height="40" width="50" />
+  </a>
 
-<a href="https://leetcode.com/u/krisharish11/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="50" /></a>
+  <a href="https://leetcode.com/u/krisharish11/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="50" />
+  </a>
 
-<a href="https://www.naukri.com/mnjuser/profile?id=your_profile_id" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/naukri.svg" alt="Harishkanna R on Naukri" height="40" width="50" />
-</a>
+  <a href="https://www.codechef.com/users/krisharish11" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="40" width="50" />
+  </a>
 
-<a href="https://www.codechef.com/users/krisharish11" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="40" width="50" /></a>
-
-<a href="https://www.hackerrank.com/harishkanna11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" /></a>
-
+  <a href="https://www.hackerrank.com/harishkanna11" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" />
+  </a>
 </p>

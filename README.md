@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">🎓 Computer Science Student @ SSNCE <br>
-☁️ Aspiring ML Engineer | 💻 Backend Developer | 📊 Data Enthusiast</h3>
+☁️ Aspiring ML Engineer | 💻 Fronted Developer | 📊 Data Enthusiast</h3>
 <!-- GIF below the tagline -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/64/0c/5a/640c5a460f941f6bbae1649079590bbe.gif" alt="Coding GIF" width="300" />
@@ -103,8 +103,19 @@
 <a href="mailto:krisharish11@gmail.com" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="email" height="40" width="50" />
 </a>
-<a href="https://linkedin.com/in/harishkannar11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" /></a>
-<a href="https://www.codechef.com/users/krisharish11" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="40" width="50" /></a>
-<a href="https://www.hackerrank.com/harishkanna11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" /></a>
+<a href="https://www.naukri.com/mnjuser/profile?id=your_profile_id" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/naukri.svg" alt="Harishkanna R on Naukri" height="40" width="50" />
+</a>
+
+
 <a href="https://leetcode.com/u/krisharish11/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="50" /></a>
+
+<a href="https://www.naukri.com/mnjuser/profile?id=your_profile_id" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/naukri.svg" alt="Harishkanna R on Naukri" height="40" width="50" />
+</a>
+
+<a href="https://www.codechef.com/users/krisharish11" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="40" width="50" /></a>
+
+<a href="https://www.hackerrank.com/harishkanna11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" /></a>
+
 </p>

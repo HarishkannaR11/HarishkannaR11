@@ -1,7 +1,16 @@
-<h1 align="center">Hi 👋, I'm HARISHKANNA R</h1>
+<!-- Profile photo -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Profile Photo" width="150" height="150" style="border-radius:50%;">
+</p>
+
+<!-- Name with grey background -->
+<h1 align="center" style="background-color:grey; padding:10px; border-radius:10px;">
+  Hi 👋, I'm HARISHKANNA R
+</h1>
 
 <h3 align="center">🎓 Computer Science Student @ SSNCE <br> 
-☁️ Aspiring ML Engineer | 💻 Backend Developer | 📊 Data Enthusiast</h3>
+☁️ Aspiring Cloud Engineer | 💻 Backend Developer | 📊 Data Enthusiast</h3>
+
 ---
 <h3 align="left">Nerd Sampler:</h3>
 <p align="left"> 

@@ -16,6 +16,10 @@
 - 🌱 Learning & building with: **React, Node.js, Tailwind, Bootstrap, Selenium, AWS**  
 - 👯 Open to collaborate on: **IoT, Web Apps, Automation, and Open Source Projects**  
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="400" />
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -37,6 +41,10 @@
 
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Tech Stack Animation" width="350" />
+</div>
+
 ---
 
 ## 📫 Connect With Me  
@@ -44,15 +52,16 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
 - 🌐 [Portfolio](https://yourportfolio.com)  
 
----
-
 <div align="center">
-  <img src="https://github.com/raghavk16/raghavk16/blob/master/eatsleepcode.gif" alt="Eat Sleep Code" width="300" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Connected Gif" width="300" />
 </div>
 
 ---
 
 ## ⚡ Fun Fact  
 > I enjoy blending **hardware and software**—turning simple circuits into smart systems.  
-Also: debugging feels like detective work, just without the trench coat. 🕵️‍♂️
+Also: debugging feels like detective work, just without the trench coat. 🕵️‍♂️  
 
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Fun Coding" width="350" />
+</div>

@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">🎓 Computer Science Student @ SSNCE <br>
-☁️ Aspiring ML Engineer | 💻 Fronted Developer | 📊 Data Enthusiast</h3>
+☁️ Aspiring ML Engineer | 💻 Full Stack Developer | 📊 Data Enthusiast</h3>
 <!-- GIF below the tagline -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/64/0c/5a/640c5a460f941f6bbae1649079590bbe.gif" alt="Coding GIF" width="300" />

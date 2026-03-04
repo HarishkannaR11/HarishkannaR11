@@ -1,122 +1,194 @@
+<!-- Name -->
+<h1 align="center">Hi 👋, I'm Harishkanna R</h1>
+
+<h3 align="center">
+🎓 Computer Science Engineering Student @ SSN College of Engineering <br>
+💻 Full-Stack Developer | 🤖 AI/ML & Data Engineering Enthusiast <br>
+☁️ Building scalable applications with AI, Cloud & Real-time Data
+</h3>
+🌐 Portfolio: https://harishkanna-portfolio.vercel.app/
 
 
-
-<!-- Name with grey background -->
-<h1 align="center" style="background-color:lightgrey; padding:10px;">
-  Hi 👋, I'm HARISHKANNA R
-</h1>
-
-<h3 align="center">🎓 Computer Science Student @ SSNCE <br>
-☁️ Aspiring ML Engineer | 💻 Full Stack Developer | 📊 Data Enthusiast</h3>
-<!-- GIF below the tagline -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/64/0c/5a/640c5a460f941f6bbae1649079590bbe.gif" alt="Coding GIF" width="300" />
-</p>
-
----
-<h3 align="left">Nerd Sampler:</h3>
-<p align="left"> 
-
-  <a href="https://www.gnu.org/software/bash/" target=" blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target=" blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target=" blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target=" blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target=" blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> 
-  </a>
-  <a href="https://reactjs.org/" target=" blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
-  </a> 
-  <a href="https://nodejs.org" target=" blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target=" blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target=" blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.arduino.cc/" target=" blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/> 
-  </a> 
-  <a href="https://hadoop.apache.org/" target=" blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="60" height="60"/> 
-  </a> 
-
- 
-  <a href="https://kafka.apache.org/" target=" blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.linux.org/" target=" blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target=" blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target=" blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target=" blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
-  </a> 
-
-  <a href="https://postman.com" target=" blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> 
-  </a> 
- 
-
-  <!-- New additions -->
-  <a href="https://www.python.org/" target=" blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target=" blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/>
-  </a>
-  <a href="https://jupyter.org/" target=" blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="60" height="60"/>
-  </a>
-  <a href="https://www.postgresql.org/" target=" blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target=" blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
-  </a>
-</p>
 
 ---
 
+## 🚀 About Me
 
-<h3 align="center">Connect with me:</h3>
+- 🎓 **CSE Student at SSN College of Engineering**
+- 💼 **Software Engineering Intern – Tech Lift Digital**
+- 🧠 Working on **Machine Learning & Data Engineering systems**
+- 📊 Researching **financial market regime detection using Neurocomputing**
+- 🏆 **State First Rank Holder (Diploma – 96.14%)**
+- ⚡ Passionate about building **AI-driven systems, real-time data pipelines, and scalable SaaS products**
+
+---
+
 <p align="center">
-  <a href="mailto:krisharish11@gmail.com" target=" blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="email" height="40" width="50" />
-  </a>
+  <img src="https://i.pinimg.com/originals/64/0c/5a/640c5a460f941f6bbae1649079590bbe.gif" width="320"/>
+</p>
 
-<!-- <a href="https://www.naukri.com/mnjuser/profile?id=1234567890" target=" blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/naukri.svg" alt="Harishkanna R on Naukri" height="40" width="50" />
-</a> -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HarishkannaR11&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
-<a href="https://leetcode.com/u/krisharish11/" target=" blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="50" />
+## 🧰 Tech Stack
+
+### Languages
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
+</p>
+
+
+### Frontend / Full-Stack
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50"/>
+</p>
+
+### Backend / APIs
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50"/>
+</p>
+
+### Databases
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50"/>
+</p>
+
+### Data Engineering & Big Data
+<p>
+<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="50"/>
+</p>
+
+### Tools
+<p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="50"/>
+</p>
+
+### Machine Learning / AI libraries
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50"/>
+</p>
+
+### IoT
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Real-Time Credit Card Fraud Detection
+- Built a **streaming fraud detection system**
+- Tech stack: **Kafka, Spark, Docker, ML models**
+- Achieved **95%+ accuracy**
+- Monitoring using **Prometheus + Grafana**
+
+---
+
+### 🔹 Federated Learning Client Selection Optimization
+- Designed **client-selection strategy for federated learning**
+- Improved training efficiency under **non-IID data conditions**
+- Built evaluation pipelines to analyze **client contribution and performance**
+
+---
+
+### 🔹 Personal Portfolio Website
+- Developed a responsive portfolio using **React.js + TailwindCSS**
+- Showcases projects, research, and technical achievements
+
+---
+
+### 🔹 IoT Weather Monitoring System
+- Built using **Arduino + ESP8266**
+- Streams real-time environmental data to **Blynk dashboard**
+
+---
+
+### 🔹 Inventory Management System
+- Java Swing application with **MySQL backend**
+- Features:
+  - Authentication
+  - Audit logging
+  - CRUD operations
+  - Two-level stock alerts
+
+---
+
+## 📑 Research
+
+### Analysis of Financial Market Dynamics using Neurocomputing
+- Applied **Neural Decision States (NDS)** for market regime detection
+- Achieved **96-98% accuracy**
+- Manuscript currently **under review at an international conference**
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **State First Rank Holder – Diploma in EEE (96.14%)**
+- 🚀 **SAP Hackfest 2025 – Sustainable Business Theme (Round-2)**
+- 🤝 **Deputy Head of Sponsorship – SSN Laksya Entrepreneurship Club**
+- 📢 **Marketing & Social Media Executive – IEEE PELS SSN Chapter**
+
+---
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HarishkannaR11&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarishkannaR11&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:harishkannar2312050@ssn.edu.in">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" height="40" width="50"/>
 </a>
 
+<a href="https://linkedin.com/in/harishkanna11">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="40" width="50"/>
+</a>
 
-  <a href="https://www.codechef.com/users/krisharish11" target=" blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="40" width="50" />
-  </a>
+<a href="https://leetcode.com/u/krisharish11/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="50"/>
+</a>
 
-  <a href="https://www.hackerrank.com/harishkanna11" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" />
-  </a>
+<a href="https://www.codechef.com/users/krisharish11">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40" width="50"/>
+</a>
+
+<a href="https://www.hackerrank.com/harishkanna11">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="50"/>
+</a>
+
 </p>

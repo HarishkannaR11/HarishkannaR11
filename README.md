@@ -94,46 +94,6 @@
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Real-Time Credit Card Fraud Detection
-- Built a **streaming fraud detection system**
-- Tech stack: **Kafka, Spark, Docker, ML models**
-- Achieved **95%+ accuracy**
-- Monitoring using **Prometheus + Grafana**
-
----
-
-### 🔹 Federated Learning Client Selection Optimization
-- Designed **client-selection strategy for federated learning**
-- Improved training efficiency under **non-IID data conditions**
-- Built evaluation pipelines to analyze **client contribution and performance**
-
----
-
-### 🔹 Personal Portfolio Website
-- Developed a responsive portfolio using **React.js + TailwindCSS**
-- Showcases projects, research, and technical achievements
-
----
-
-### 🔹 IoT Weather Monitoring System
-- Built using **Arduino + ESP8266**
-- Streams real-time environmental data to **Blynk dashboard**
-
----
-
-### 🔹 Inventory Management System
-- Java Swing application with **MySQL backend**
-- Features:
-  - Authentication
-  - Audit logging
-  - CRUD operations
-  - Two-level stock alerts
-
 ---
 
 ## 📑 Research

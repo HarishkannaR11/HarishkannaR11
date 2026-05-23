@@ -79,21 +79,9 @@
 </tr>
 </table>
 
-### 📊 System Analytics
 
-### 📊 System Analytics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=HarishkannaR11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" 
-    width="48%" 
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishkannaR11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" 
-    width="48%" 
-  />
-</p>
+
 
 ### 📈 Activity Graph
 

@@ -293,6 +293,7 @@ FastAPI • LangGraph • React • PostgreSQL • Redis • ChromaDB • Groq �
 <p align="left">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
+
 ---
 
 # 🏆 Achievements
@@ -331,9 +332,12 @@ FastAPI • LangGraph • React • PostgreSQL • Redis • ChromaDB • Groq �
 
 ---
 
+
 ## 🏅 Trophy Wall
 
-<img src="https://github-profile-trophy.vercel.app/?username=HarishkannaR11&theme=tokyonight&no-frame=true&margin-w=15"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarishkannaR11&theme=algolia&no-frame=true&margin-w=15" />
+</p>
 
 ---
 

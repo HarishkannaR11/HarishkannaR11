@@ -83,7 +83,7 @@ learning_roadmap:
 
 ## AI Assistant Software Development Engineer Intern | Tech Lift Digital
 📍 Chennai, India (Remote)  
-📅 Dec 2025 – Apr 2026
+📅 May 2026 – Jun 2026
 
 Worked on the development of AI-powered SaaS applications, contributing across backend engineering, intelligent workflows, and full-stack product development.
 

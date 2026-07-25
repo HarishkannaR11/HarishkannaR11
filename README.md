@@ -57,9 +57,17 @@
 ## 🧑‍🎓 EDUCATION
 
 | 🎓 Degree | 🏛️ Institution | 📅 Year |
-|-----------|---------------|---------|
-| **B.E. Computer Science & Engineering** | SSN College of Engineering, Chennai | 2023–2027 |
-| **Diploma, Electrical & Electronics Engineering** | — | State First Rank (96.14%) |
+|-----------|---------------|---------|## 🏅 Trophy Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarishkannaR11&theme=algolia&no-frame=true&margin-w=15" />
+</p>
+| **B.E. Computer Science & Engineering** | SSN College of Engineering, Chennai | 2023–2027 (7.5 CGPA) |
+| **Diploma, Electrical & Electronics Engineering** | — | State First Rank (96.14%) |## 🏅 Trophy Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarishkannaR11&theme=algolia&no-frame=true&margin-w=15" />
+</p>
 
 ---
 

@@ -1,270 +1,102 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Harishkanna%20R&fontSize=50&fontColor=00F7FF&fontAlignY=38&desc=B.E.%20CSE%20%40%20SSN%20College%20of%20Engineering%2C%20Chennai&descAlignY=58&descColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&lines=AI+Researcher+%F0%9F%A7%A0;Full+Stack+%2F+ML+Systems+Builder+%F0%9F%9B%A0%EF%B8%8F;Agentic+AI+%26+Distributed+Systems+%F0%9F%A4%96;ICTIS+2026+%2F+Springer+LNNS+Author+%F0%9F%93%84" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarishkannaR11&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Publications-1-FFD700?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Springer%20LNNS-Peer%20Reviewed-red?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://harishkanna-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/harishkannar11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:harishkannar2312050@ssn.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://leetcode.com/u/krisharish11/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+---
+
+## 🎮 PLAYER STATS
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=HARISHKANNA%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20Researcher%20|%20ML%20Systems%20Builder&descAlignY=62"/>
+| 🧬 ATTRIBUTE | 📊 VALUE | 🏅 RANK |
+|:---:|:---:|:---:|
+| ⚔️ **CLASS** | Full Stack Dev × ML Engineer × Researcher | `ELITE` |
+| 🎓 **LEVEL** | B.E. CSE @ SSN — Batch 2023–2027 | `FINAL YEAR` |
+| 🏛️ **GUILD** | SSN College of Engineering, Chennai | `ACTIVE` |
+| 📍 **LOCATION** | Chennai, India | `IND-SERVER` |
+| ⚡ **SPECIALTY** | Neurofinance · Agentic AI · RAG Systems | `LEGENDARY` |
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems+for+Real+World+Problems;AI+Researcher+%7C+Software+Engineer+%7C+ML+Engineer;Distributed+Systems+%7C+Agentic+AI+%7C+Cloud+Native+Applications;Final+Year+CSE+Student+at+SSN+College+of+Engineering"/>
+</div>
 
-<br>
+<div align="center">
 
-<a href="https://harishkanna-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/harishkannar11">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:harishkannar2312050@ssn.edu.in">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/krisharish11/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+| 📜 STAT | 🔋 XP BAR | 📈 SCORE |
+|:---:|:---:|:---:|
+| 📄 PAPERS | `██████████████████████ 100%` | **1** Springer LNNS (ICTIS 2026) |
+| 💼 INTERNSHIPS | `██████████████████████ 100%` | 2x Tenures @ Tech Lift Digital |
+| 🔬 RESEARCH | `█████████████████░░░░░  78%` | Neurofinance · ML Systems |
+| 🏆 HACKATHONS | `████████████████░░░░░░  80%` | Top 10/260 TechnoVerse · SAP Finalist |
+| 🥇 ACADEMICS | `██████████████████████ 100%` | State 1st Rank — Diploma EEE (96.14%) |
 
 </div>
 
 ---
 
-# ⚡ Execution Context
+## 🧑‍🎓 EDUCATION
 
-```yaml
-name: Harishkanna R
-location: Chennai, India
-
-education:
-  degree: B.E Computer Science and Engineering
-  institution: SSN College of Engineering
-  batch: 2023-2027
-
-current_role:
-  title: Software Engineering Intern
-  company: Tech Lift Digital
-
-research_interests:
-  - Machine Learning Systems
-  - Financial AI
-  - Behavioral Computing
-  - Agentic AI
-  - Distributed Intelligence
-
-technical_focus:
-  - AI Infrastructure
-  - RAG Systems
-  - Full Stack Engineering
-  - Scalable SaaS Architecture
-  - Real Time Data Systems
-
-career_goal:
-  Build production-grade intelligent systems operating at scale.
-
-learning_roadmap:
-  - Kubernetes
-  - MLOps
-  - Distributed Systems
-  - System Design
-  - Agentic AI
-```
+| 🎓 Degree | 🏛️ Institution | 📅 Year |
+|-----------|---------------|---------|
+| **B.E. Computer Science & Engineering** | SSN College of Engineering, Chennai | 2023–2027 |
+| **Diploma, Electrical & Electronics Engineering** | — | State First Rank (96.14%) |
 
 ---
 
-# 👨‍💻 About Me
+## 🧠 ABOUT ME
 
-* Building AI systems that bridge research and production.
-* Interested in the intersection of Machine Learning, Finance, and Human Decision Making.
-* Exploring distributed architectures and scalable backend systems.
-* Passionate about translating research ideas into deployable software products.
-* Actively working on RAG systems, AI agents, and ML infrastructure.
+> *"Research discovers possibilities. Engineering makes them useful."*
+
+Building AI systems that bridge research and production — at the intersection of **Machine Learning, Finance, and Human Decision-Making**. Actively engineering RAG pipelines, multi-agent orchestration systems, and scalable SaaS architectures, while translating research into deployable software.
 
 ---
 
-# 💼 Professional Experience
+## ⚔️ SKILL TREE
 
-
-## AI Assistant Software Development Engineer Intern | Tech Lift Digital
-📍 Chennai, India (Remote)  
-📅 May 2026 – Jun 2026
-
-Worked on the development of AI-powered SaaS applications, contributing across backend engineering, intelligent workflows, and full-stack product development.
-
-### Contributions
-- Developed AI-assisted features and workflows for business applications.
-- Built backend APIs powering intelligent SaaS products.
-- Integrated LLM-powered capabilities and automation pipelines.
-- Designed and optimized relational database schemas for scalable applications.
-- Improved application performance through query optimization and indexing.
-- Contributed to frontend and backend development using modern web technologies.
-- Participated in deployment, debugging, and production support activities.
-
-### Engineering Focus
-- AI Application Development
-- API Design and Development
-- Database Optimization
-- Full Stack Engineering
-- SaaS Architecture
-- Production Reliability
-
-### Technologies Used
-
-`FastAPI` `React` `Next.js` `Python` `JavaScript`
-`MySQL` `PostgreSQL` `Docker` `Git`
-
-
-## Software Engineering Intern | Tech Lift Digital
-📍 Chennai, India (Remote)  
-📅 Dec 2025 – Apr 2026
-
-### Responsibilities
-- Contributed to the development of scalable SaaS applications serving business users.
-- Designed and implemented backend APIs for core business workflows.
-- Developed full-stack features across frontend and backend systems.
-- Optimized database queries and improved application performance.
-- Participated in debugging, testing, and deployment processes in production environments.
-
-### Engineering Contributions
-- REST API Design and Development
-- Database Schema Design and Optimization
-- Query Performance Tuning
-- Full Stack Feature Development
-- SaaS Platform Architecture
-- Production Issue Resolution
-
-### Technologies Used
-
-`React` `Next.js` `FastAPI` `Node.js` `MySQL` `PostgreSQL`
-`Docker` `Git` `REST APIs`
-
----
-
-# 🔬 Research
-
-## Neurofinance-Based Market Regime Detection
-
-Research focused on understanding financial market behavior through neuroscience-inspired decision models.
-
-### Contributions
-
-* Designed the **Neuro Decision Score (NDS)** framework.
-* Engineered **22 financial indicators** spanning momentum, volatility, sentiment, and risk.
-* Built predictive models using XGBoost.
-
-### Results
-
-| Metric       | Result              |
-| ------------ | ------------------- |
-| Accuracy     | 96.6%               |
-| ROC AUC      | 0.9849              |
-| Publication  | ICTIS Thailand 2026 |
-| Dataset Size | 1516 Trading Days   |
-
----
-
-# 🚀 Featured Projects
-
-## AURUM CRM
-
-### Architecture
-
-Multi-tenant SaaS platform for jewellery businesses.
-
-### Stack
-
-Next.js • FastAPI • LangChain • ChromaDB • PostgreSQL
-
-### Impact
-
-* Automated GST workflows.
-* AI-powered business assistant.
-* Inventory and customer lifecycle management.
-
----
-
-## Placement Prediction & Resume Optimizer
-
-### Stack
-
-XGBoost • Semantic Search • RAG
-
-### Impact
-
-* Resume tailoring engine.
-* Placement probability estimation.
-* Ranked Top 10 among 260 teams at TechnoVerse.
-
----
-
-## RegOps AI
-
-### Stack
-
-LangGraph • FastAPI • ChromaDB • LLM Agents
-
-### Impact
-
-* Automated compliance intelligence workflows.
-* Regulatory document understanding.
-* Agentic reasoning pipelines.
-
----
-## Orstrict AI
-
-### Architecture
-
-Enterprise-grade agentic AI platform designed for workflow orchestration, intelligent automation, and decision support across business operations.
-
-### Stack
-
-FastAPI • LangGraph • React • PostgreSQL • Redis • ChromaDB • Groq • Docker
-
-### Scale
-
-* Built using a modular multi-agent architecture.
-* Supports asynchronous task execution and context-aware reasoning pipelines.
-* Designed for scalable deployment in enterprise environments.
-
-### Impact
-
-* Automated repetitive operational workflows using AI agents.
-* Reduced manual intervention through intelligent task orchestration.
-* Enabled context-aware decision making using Retrieval-Augmented Generation (RAG).
-* Improved productivity by integrating autonomous reasoning with human approval workflows.
-
-### Engineering Challenges Solved
-
-* Multi-agent coordination and state management.
-* Long-context retrieval and memory handling.
-* Human-in-the-loop approval mechanisms.
-* Scalable asynchronous execution pipelines.
-* Reliable retrieval and reasoning over enterprise knowledge bases.
-
-
----
-
-# 🛠 Technical Arsenal
-
-## Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,sql"/>
-
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-
-## Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-
-## Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-
-## AI & Machine Learning
-
+### 🖥️ Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,sql&theme=dark"/>
 </p>
 
+### 🌐 Frontend
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark"/>
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark"/>
+</p>
+
+### 🧠 AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+  &nbsp;
   <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CrewAI-6E40C9?style=for-the-badge" />
@@ -272,12 +104,12 @@ FastAPI • LangGraph • React • PostgreSQL • Redis • ChromaDB • Groq �
   <img src="https://img.shields.io/badge/ChromaDB-7B68EE?style=for-the-badge" />
 </p>
 
-## Cloud & DevOps
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git&theme=dark"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git"/>
-
-## Big Data
-
+### 📊 Big Data
 <p align="left">
   <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
@@ -285,53 +117,129 @@ FastAPI • LangGraph • React • PostgreSQL • Redis • ChromaDB • Groq �
   <img src="https://img.shields.io/badge/HDFS-2E7D32?style=for-the-badge"/>
 </p>
 
-## Tools
+### 🔧 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,githubactions"/>
-</p>
-
-<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,githubactions&theme=dark"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
 
-# 🏆 Achievements
+## 💼 QUEST HISTORY
 
-🥇 State First Rank Holder — Diploma EEE (96.14%)
+### 🤖 `[COMPLETED]` AI Assistant SDE Intern — Tech Lift Digital *(May 2026 – Jun 2026, Remote)*
+- 🧠 Developed AI-assisted features and workflows for business SaaS applications
+- 🔗 Integrated LLM-powered capabilities and automation pipelines
+- 🗄️ Designed and optimized relational schemas for scalable applications
+- 🚀 Contributed to deployment, debugging, and production support
 
-🏆 Top 10 among 260 teams — TechnoVerse Hackathon
-
-🚀 Finalist — SAP Hackfest
-
-🎓 Research Publication — ICTIS Thailand 2026
-
-👥 Deputy Head of Sponsorship & Finance — Lakshya SSN
+### ⚙️ `[COMPLETED]` Software Engineering Intern — Tech Lift Digital *(Dec 2025 – Apr 2026, Remote)*
+- 🔌 Designed and implemented backend APIs for core business workflows
+- 🖥️ Developed full-stack features across frontend and backend systems
+- ⚡ Optimized database queries and improved application performance
+- ✅ Participated in debugging, testing, and production deployment
 
 ---
 
-# 📊 GitHub Analytics
+## 🚀 RESEARCH MISSIONS
+
+### 💹 `[PUBLISHED]` Neurofinance-Based Market Regime Detection
+> 📄 *ICTIS Thailand 2026 — Springer LNNS*
+```
+FRAMEWORK  : Neuro Decision Score (NDS)
+INDICATORS : 22 financial indicators — momentum, volatility, sentiment, risk
+MODEL      : XGBoost
+ACCURACY   : 96.6%  |  ROC AUC: 0.9849
+DATASET    : 1516 Trading Days
+STATUS     : ✅ PUBLISHED
+```
+
+---
+
+## 🏗️ FEATURED PROJECTS
+
+### 💍 AURUM CRM
+```
+STACK  : Next.js · FastAPI · LangChain · ChromaDB · PostgreSQL
+IMPACT : Multi-tenant SaaS for jewellery businesses — automated GST workflows,
+         AI business assistant, inventory & customer lifecycle management
+```
+
+### 📄 Placement Prediction & Resume Optimizer
+```
+STACK  : XGBoost · Semantic Search · RAG
+IMPACT : Resume tailoring engine + placement probability estimation
+RESULT : Top 10 among 260 teams @ TechnoVerse
+```
+
+### 📋 RegOps AI
+```
+STACK  : LangGraph · FastAPI · ChromaDB · LLM Agents
+IMPACT : Automated compliance intelligence workflows, regulatory document
+         understanding, agentic reasoning pipelines
+```
+
+### 🏢 Orstrict AI
+```
+STACK  : FastAPI · LangGraph · React · PostgreSQL · Redis · ChromaDB · Groq · Docker
+IMPACT : Enterprise agentic AI platform for workflow orchestration —
+         modular multi-agent architecture, async task execution, RAG-driven
+         context-aware decisions, human-in-the-loop approval workflows
+CHALLENGES SOLVED : Multi-agent coordination · long-context memory ·
+                     human-in-the-loop approvals · scalable async pipelines
+```
+
+---
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+```
+🥇  STATE FIRST RANK ............. Diploma EEE (96.14%)
+🏆  TOP 10 / 260 TEAMS ............ TechnoVerse Hackathon
+🚀  FINALIST ...................... SAP Hackfest
+🎓  RESEARCH PUBLICATION .......... ICTIS Thailand 2026 (Springer LNNS)
+👥  DEPUTY HEAD, SPONSORSHIP & FINANCE  Lakshya SSN
+```
+
+---
+
+## 📊 BATTLE STATS
+
+<div align="center">
+
+| 🏅 ACHIEVEMENT | 🔢 COUNT | 🎖️ BADGE |
+|:---:|:---:|:---:|
+| 📄 Peer-Reviewed Papers | **1** | ![Papers](https://img.shields.io/badge/1%20Paper-Published-FFD700?style=flat-square&logo=google-scholar&logoColor=white) |
+| 💼 Internships | **2** | ![Intern](https://img.shields.io/badge/2%20Internships-Completed-00D4FF?style=flat-square) |
+| 🏆 Hackathon Results | **2** | ![Hack](https://img.shields.io/badge/Top%2010%20%2B%20Finalist-Hackathons-FF6B35?style=flat-square) |
+| 🥇 State Rank | **1st** | ![Rank](https://img.shields.io/badge/State%201st%20Rank-Diploma%20EEE-blueviolet?style=flat-square) |
+
+</div>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HarishkannaR11&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarishkannaR11&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishkannaR11&layout=compact&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarishkannaR11&theme=tokyonight"/>
-
+  <img src="https://img.shields.io/badge/Python-Advanced-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%2FNext.js-Advanced-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-Advanced-%23009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-Proficient-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-Proficient-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarishkannaR11&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarishkannaR11&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishkannaR11&layout=compact&theme=tokyonight"/>
+</p>
+
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarishkannaR11&theme=tokyo-night&hide_border=true"/>
-
----
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarishkannaR11&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ## 🏅 Trophy Wall
 
@@ -339,30 +247,27 @@ FastAPI • LangGraph • React • PostgreSQL • Redis • ChromaDB • Groq �
   <img src="https://github-profile-trophy.vercel.app/?username=HarishkannaR11&theme=algolia&no-frame=true&margin-w=15" />
 </p>
 
----
-
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 CURRENTLY LEVELING UP
 
 * Kubernetes
 * MLOps
 * Distributed Systems
 * System Design
 * Agentic AI
-* Scalable Event Driven Architectures
 
 ---
 
 <div align="center">
 
 ### "Research discovers possibilities. Engineering makes them useful."
-
-<img src="https://komarev.com/ghpvc/?username=HarishkannaR11&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,100:0f2027"/>
 

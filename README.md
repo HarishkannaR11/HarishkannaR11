@@ -34,7 +34,7 @@
 
 | 🧬 ATTRIBUTE | 📊 VALUE | 🏅 RANK |
 |:---:|:---:|:---:|
-| ⚔️ **CLASS** | Full Stack Dev × ML Engineer × Researcher | `ELITE` |
+| ⚔️ **CLASS** | Full Stack Dev × ML Engineer × AI Agents Builder | `ELITE` |
 | 🎓 **LEVEL** | B.E. CSE @ SSN — Batch 2023–2027 | `FINAL YEAR` |
 | 🏛️ **GUILD** | SSN College of Engineering, Chennai | `ACTIVE` |
 | 📍 **LOCATION** | Chennai, India | `IND-SERVER` |
@@ -174,6 +174,24 @@ I build scalable web applications, SaaS platforms, RAG systems, and AI-powered w
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HarishkannaR11/HarishkannaR11/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/HarishkannaR11/HarishkannaR11/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/HarishkannaR11/HarishkannaR11/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/HarishkannaR11/HarishkannaR11/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---

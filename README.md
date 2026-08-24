@@ -173,10 +173,7 @@ I build scalable web applications, SaaS platforms, RAG systems, and AI-powered w
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/HarishkannaR11/HarishkannaR11/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <img src="https://raw.githubusercontent.com/HarishkannaR11/HarishkannaR11/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---

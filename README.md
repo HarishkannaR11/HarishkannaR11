@@ -91,9 +91,11 @@ I build scalable web applications, SaaS platforms, RAG systems, AI agents, and m
 </p>
 
 ### 🗄️ Databases & Cloud
-<p align="left">
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,nginx,aws,linux,git&theme=dark"/>
 </p>
+
 ### 📊 Big Data
 
 <p align="center">
@@ -123,7 +125,13 @@ I build scalable web applications, SaaS platforms, RAG systems, AI agents, and m
 
 ---
 
-## 📈 CONTRIBUTION ACTIVITY
+## 📈 GITHUB STATS
+
+<p align="center">
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HarishkannaR11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  &nbsp;
+  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishkannaR11&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
   <img
@@ -133,6 +141,12 @@ I build scalable web applications, SaaS platforms, RAG systems, AI agents, and m
   />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarishkannaR11/HarishkannaR11/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/HarishkannaR11/HarishkannaR11/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
 
 ---
 
@@ -161,20 +175,24 @@ I build scalable web applications, SaaS platforms, RAG systems, AI agents, and m
 ## 🔗 CONNECT WITH ME
 
 <p align="center">
-
-<a href="https://harishkanna-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/harishkannar11">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/krisharish11/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
+  <a href="https://harishkanna-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/harishkannar11">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:harishkannar2312050@ssn.edu.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/krisharish11/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
+
+<p align="center"><i>Open to internships, collaborations, and interesting AI/ML problems. ⭐ Thanks for stopping by!</i></p>
 
 ---
 
